@@ -16,6 +16,7 @@
 
 body {
   color: var(--foreground);
-  background: var(--background);
+  /* background: var(--background); */
+  background: papayawhip;
   font-family: Arial, Helvetica, sans-serif;
 }
