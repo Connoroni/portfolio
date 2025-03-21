@@ -1,0 +1,28 @@
+.all {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.topImage {
+  height: 10rem;
+  width: 100vw;
+  background-color: orangered;
+}
+
+.fullPage {
+  min-height: fit-content;
+  padding: 4rem;
+  width: 80vw;
+  background-color: var(--background);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  border-radius: 2%;
+}
+
+.portfolioDiv {
+  display: flex;
+  flex-direction: column;
+}
